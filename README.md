@@ -1,4 +1,4 @@
-# Print-Cycle
+# PrintCycle
 An open-source repository of 3D-printable bike components designed for nonprofit bike shops to freely access and use.
 
 All files are under the STLs folder and are ready to be printed. Most are exported y-axis up, but reorient them as you see fit.
