@@ -1,3 +1,5 @@
+**NOTE** If you are unsure which derailleur hanger to print, and the bike has a common Shimano (Tourney, Altus, Acera, Alivio, some Deore) derailleur/drivetrain, try using the genertic hanger, it will likely work.
+
 Same as the information found in the readme, but please make sure you follow these settings for the best results.
 Recommended print settings:
 Material: PETG is okay, ABS/ASA highly recommended
@@ -5,5 +7,3 @@ Perimeters/walls: 4
 Infill: 100%
 Top/bottom layers: 3
 Print speed: no greater than 200mm/s
-
-Process for strengthening using epoxy/super glue coming soon.
