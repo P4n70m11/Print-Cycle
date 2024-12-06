@@ -9,4 +9,6 @@ Recommended print settings:
 **Top/bottom layers**: 3
 **Print speed**: no greater than 200mm/s
 
+Current parts include derailleur hangars for multiple bikes, 3D printable tire levers.
+
 Process for strengthening using epoxy/super glue coming soon.
