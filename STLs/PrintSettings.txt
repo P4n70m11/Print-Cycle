@@ -1,4 +1,4 @@
-This folder includes all STL files that are ready to be printed. Most are exported y-axis up, but reorient them as you see fit.
+Same as the information found in the readme, but please make sure you follow these settings for the best results.
 Recommended print settings:
 Material: PETG is okay, ABS/ASA highly recommended
 Perimeters/walls: 4
